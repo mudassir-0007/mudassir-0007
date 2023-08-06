@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0%;
+}
+
+html,
+body {
+    color: rgb(41, 41, 41);
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    scroll-behavior: smooth;
+}
+
+/* vertical timeline component */
+.vertical-timeline-element-date {
+    color: black;
+}
+
+@media only screen and (max-width: 1170px) {
+    .vertical-timeline-element-date {
+        color: white;
+    }
+}
+
+/* Set the color of the scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+    background: #2e2e2e;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 20px;
+}
