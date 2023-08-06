@@ -124,7 +124,7 @@ export const projects = [
     tags: ["Next.js", "FramerMotion", "TailwindCSS"],
     description:
       "This is the current site you are currently visiting. It's my personal portfolio site where I showcase my skills and abilities. I've created this site to demonstrate my expertise and experience in my field, and to provide potential clients or employers with a comprehensive understanding of my capabilities. On this site, you can explore my past work, learn about the skills and tools I possess, and gain a better understanding of how I can add value to your projects or organization. Thank you for taking the time to explore my portfolio!",
-    link: "https://sourabhportfolio.vercel.app",
+    link: "https://mudassir-0007.vercel.app/",
   },
   {
     name: "Beautybebo-Clone",
@@ -148,12 +148,4 @@ export const projects = [
     link: "https://go-fit.netlify.app/",
     
   },
-  // {
-  //   name: "TextUtils",
-  //   link: "https://text-utils-beta.vercel.app/",
-  //   tags: ["React.js", "Bootstrap"],
-  //   description:
-  //     "I have developed a text utility website (For Learning Purpose) that enables users to modify text in various ways. This includes converting text to UPPERCASE, lowercase, or Capitalizing Each Word of a String. The website also offers features to remove extra spaces and reverse the text. While the primary goal of this project is for learning purposes, I have incorporated additional features such as Dynamic Theme and Dark mode for an enhanced user experience.",
-  //   github: "https://github.com/sourabhkumhar/TextUtils",
-  // },
-];
+ ];
